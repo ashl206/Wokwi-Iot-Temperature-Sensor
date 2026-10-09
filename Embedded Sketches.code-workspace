@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../Embedded Sketches"
+		},
+		{
+			"name": "Temperature Sensor",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
